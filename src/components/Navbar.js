@@ -15,11 +15,11 @@ const NavBar = () => {
     return (
         <div className="navigation">
             <ul>
-                <li><a href="#"><FaHome size={30} color="#b3330c"  /></a></li>
+                <li><a href="##"><FaHome size={30} color="#b3330c"  /></a></li>
                 <li><a href="#about"><GoPerson size={30} color="#b3330c"/></a></li>
                 <li><a href="#skiles"><MdOutlineMiscellaneousServices  size={30} color="#b3330c" /></a></li>
                 <li><a href="#projects"><MdWork size={30} color="#b3330c" /></a></li>
-                <li><a href="#contact"><BiMessageDots size={30} color="#b3330c" /></a></li>
+                <li><a href="#connect"><BiMessageDots size={30} color="#b3330c" /></a></li>
             </ul>
 
         </div>

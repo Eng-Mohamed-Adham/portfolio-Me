@@ -1,4 +1,6 @@
 import About from "./components/About";
+import Connect from "./components/Connect";
+import Footer from "./components/Footer";
 import AboutMe from "./components/Information";
 import NavBar from "./components/Navbar";
 import Projects from "./components/projects";
@@ -19,6 +21,8 @@ function App() {
   <Skiles />
   <TitleProjects />
   <Projects />
+  <Connect />
+  <Footer />
 </div>
 
   );

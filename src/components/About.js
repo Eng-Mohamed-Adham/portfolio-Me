@@ -31,7 +31,7 @@ const About = () => {
           );
         }}        
       />
-      <button className='btn'>Download CV</button>
+      <button className='btn'>Inbox Me</button>
             </div>
     </section>
     );
